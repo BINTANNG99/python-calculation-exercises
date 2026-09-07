@@ -1,4 +1,3 @@
-#Raden Jasmine Meyza Anggyta (104224029)
 #soal 1: tunjangan hari raya (thr) karyawan
 
 #input dari user
