@@ -1,4 +1,3 @@
-#Raden Jasmine Meyza Anggyta (104224029)
 #soal nomor 2
 
 #input berat (kg) dan tinggi (meter)
