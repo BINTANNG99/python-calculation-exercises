@@ -1,4 +1,3 @@
-#Raden Jasmine Meyza Anggyta (104224029)
 #soal nomor 3
 
 #data kurs: 'mata uang' : [harga beli, harga jual]
